@@ -1,0 +1,72 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+  max-width: 100%;
+  height: 100px;
+  background: dodgerblue;
+}
+
+.navbar link{
+  margin: 30px;
+  text-decoration: none;
+  position: relative;
+  left: 800px;
+  top: 40px;
+  color: white;
+  font-weight: bold;
+}
+
+.products .link{
+  padding: 20px 28px;
+  background: dodgerblue;
+  margin: 30px;
+  position: relative;
+  border: 10px;
+  top: 50px;
+  text-decoration: none;
+  color: white;
+}
+
+.products .mainarea{
+  max-width: 100%;
+  height: 500px;
+  background: #333;
+}
+
+.cardone{
+  width:400px;
+  height: 350px;
+  background: whitesmoke;
+  position: relative;
+  top: 100px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.cardtwo{
+  width:400px;
+  height: 350px;
+  background: orange;
+  color: white;
+  position: relative;
+  top: 100px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.link-red{
+ font-weight: bold;
+  color: red;
+}
+
+.link-gray{
+  color: gray;
+  font-weight: bold;
+}
+
